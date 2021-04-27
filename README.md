@@ -1,0 +1,2 @@
+# Covid-19-Vaccination-Progression-with-Python
+• Explored data set and created graphs, charts, and plots to express the progression of Covid-19 vaccinations  • Gained hands on experience using libraries such as: Beautiful Soup, numpy, scipy, matplotlib,pandas, and more to access data visualization tools • Built out the data and reporting infrastructure from the ground up using Python and Tableau to provide real-time insights of the progression of Covid-19 vaccinations
